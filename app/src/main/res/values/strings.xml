@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BuildingForms</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_edit_text_email">Email</string>
+    <string name="edit_text_phone_number">Phone Number</string>
+    <string name="edit_text_password">Password</string>
+    <string name="edit_text_confirm_password">Confirm Password</string>
+    <string name="button_preview">Submit</string>
+    <string name="button_confirm">Confirm</string>
+</resources>
